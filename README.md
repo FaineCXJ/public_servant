@@ -1,2 +1,2 @@
-# -public_servant
+# public_servant
 宇宙的尽头是考公，分享考公过程整理的知识点，帮助各个转业及待业码农上岸
